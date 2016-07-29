@@ -116,7 +116,7 @@ ul.list ul li{margin-bottom:5px;}
 #content{margin-left:45px;}
 #main{margin-top:200px; background:transparent url('../images/contentbg.png') repeat top left;}
 	#content{width:788px; top:-40px; background-color:#f2f2f2; margin-bottom:15px; padding:0 10px 10px; border:1px solid #000; -moz-box-shadow: 5px 5px 5px #779ead; -webkit-box-shadow: 5px 5px 5px #779ead; box-shadow: 5px 5px 5px #779ead; -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px;}
-		h1#titleh{width:788px; left:-10px; margin-bottom:10px; padding:0 10px; z-index:1; color:#FFF; background-color:#1f3443; -moz-border-radius-topright:15px; -webkit-border-top-right-radius:15px; -moz-border-radius-topleft:15px; -webkit-border-top-left-radius:15px; border-top-right-radius:15px; border-top-left-radius:15px;}
+		h1#titleh{width:788px; left:-11px; margin-top:-1px; margin-bottom:10px; padding:0 10px; z-index:1; color:#FFF; background-color:#1f3443; -moz-border-radius-topright:15px; -webkit-border-top-right-radius:15px; -moz-border-radius-topleft:15px; -webkit-border-top-left-radius:15px; border-top-right-radius:15px; border-top-left-radius:15px;}
 	#rightBorder{right:-21px; top:0; width:26px; height:100%; background:transparent url('../images/rightborder.png') repeat-y top left;}
 	p.error{margin-top:10px; color:#df0000; background-color:white;}
 form, fieldset, label, input, .checkbox, textarea, select, option{}
