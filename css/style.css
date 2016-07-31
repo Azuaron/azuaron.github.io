@@ -90,7 +90,8 @@ ul.list ul li{margin-bottom:5px;}
 	.front a#newprojects{background:transparent url('../images/newprojects.png') no-repeat top left; background-position:0px 0px;}
 	.front a#viewprojects{background:transparent url('../images/ProjectsGearSprites.png') no-repeat top left; background-position:0px 0px;}
 	.front #notanewprojects{background:transparent url('../images/notanewprojects.png') no-repeat top left;}
-	.front a#newprojects:hover, .front a#viewprojects{background-position:-260px 0px;}
+	.front a#newprojects:hover{background-position:-260px 0px;}
+	.front a#viewprojects{background-position:-285px -5px;}
 /*
 *	Main content area for the front page
 *	Contains link boxes
