@@ -36,7 +36,9 @@
 		<div id="main">
 			<div id="content">
 				<h1 id="titleh">About</h1>
-				<p><p>Site by Sam (also known as Azuaron). Real about to come.</p></p>
+				<p><p><img style="float:left;" src="images/DressedUp.jpg" alt="Sam Brougher" />I am Sam Brougher. In 2008 I got my Bachelor of Science in Psychology with a minor in Creative Writing and a concentration in Information Technology. Two years later I graduated with my Master of Science in Applied Experimental and Engineering Psychology with focuses on Human-Computer Interaction, Information Processing, and Interactive Programming. In addition, I�ve taken courses in biology, physics, advanced mathematics, chemistry, and engineering.</p>
+<p>Professionally, I�m a Software Engineer at Curriculum Associates. My first novel, Letters to an Old God, was self-published on Amazon (so you know it�s a big deal). At various times I <a href="https://github.com/Azuaron">start and stop open source projects on GitHub</a>;</p>
+<p>I�m married, have a 2-year-old daughter and a &lt;1 year old daughter, and am staff to a pair of cats.</p></p>
 				<p>Last updated <em>30 July 2016</em></p>
 				<div class="clear"> </div>
 			</div>
@@ -74,10 +76,14 @@
 					<a shape="rect" href="about.html">About</a>
 					<img class="menuborder" src="/images/menudivider.png" />
 				</li>
-				<li class="menu-item">
-					<a shape="rect" href="feed.xml">Subscribe</a>
+				<li>
+					<a href="https://www.linkedin.com/in/sambrougher" shape="rect">LinkedIn</a>
 					<img class="menuborder" src="/images/menudivider.png" />
 				</li>
+				<!--li class="menu-item">
+					<a th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+${config.feed_file}">Subscribe</a>
+					<img class="menuborder" th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:src="${rootpath} + '/images/menudivider.png'" />
+				</li-->
 			</ul>
 			<img id="menurightborder" alt="Menu right border" src="images/menuright.png" />
 		</div><!-- end of menu -->
