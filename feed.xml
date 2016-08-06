@@ -5,10 +5,16 @@
     <atom:link href="http://azuaron.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 6 Aug 2016 11:38:32 -0400</pubDate>
-    <lastBuildDate>Sat, 6 Aug 2016 11:38:32 -0400</lastBuildDate>
+    <pubDate>Sat, 6 Aug 2016 11:48:39 -0400</pubDate>
+    <lastBuildDate>Sat, 6 Aug 2016 11:48:39 -0400</lastBuildDate>
 
-    
+    <item>
+      <title>Welcome to the new site!</title>
+      <link>http://azuaron.github.io/news/welcome.html</link>
+      <pubDate>Sat, 6 Aug 2016 00:00:00 -0400</pubDate>
+      <guid isPermaLink="false">news/welcome.html</guid>
+      <description>&amp;lt;p&amp;gt;Welcome to the new site! As you can probably tell, I&amp;#39;m moving away from a &amp;quot;regular blogging&amp;quot; format to more of a personal and project information site. News related to any open source projects will appear here, but it will likely be few and far between.&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
   </channel> 
 </rss>
