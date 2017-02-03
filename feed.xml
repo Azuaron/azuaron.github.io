@@ -5,8 +5,16 @@
     <atom:link href="http://azuaron.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 8 Aug 2016 05:15:43 -0400</pubDate>
-    <lastBuildDate>Mon, 8 Aug 2016 05:15:43 -0400</lastBuildDate>
+    <pubDate>Thu, 2 Feb 2017 21:50:19 -0500</pubDate>
+    <lastBuildDate>Thu, 2 Feb 2017 21:50:19 -0500</lastBuildDate>
+
+    <item>
+      <title>Short Story &#39;Soul-Full&#39; Published in Greater Sum</title>
+      <link>http://azuaron.github.io/news/soul-full-published.html</link>
+      <pubDate>Thu, 2 Feb 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">news/soul-full-published.html</guid>
+      <description>&amp;lt;p&amp;gt;I have a short story published in the debut issue (Spring 2017) of the Christian literary magazine &amp;lt;a href=&amp;quot;http://www.agreatersum.com/&amp;quot;&amp;gt;Greater Sum&amp;lt;/a&amp;gt;! I encourage you to check it out; I guarantee that this magazine will surprise you.&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>Welcome to the new site!</title>
